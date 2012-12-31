@@ -1,4 +1,4 @@
-The CUMTD WebApp is a transit application designed to be fast, simple, and data efficient method of getting bus arrival times.
+WebMTD is a transit application designed to be fast, simple, and data efficient method of getting bus arrival times.
 It consists of a Python script for data aquisition and processing and a Javascript user interface.
 
 A basic example implementation is available here:
